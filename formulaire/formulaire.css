@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ /* Flex */
+.row { display: flex; }
+.space-btw { display: flex; justify-content: space-between; }
+.space-around { display: flex; justify-content: space-around; }
+.jus-center { display: flex; justify-content: center; }
+.al-itm-center { display: flex; align-items: center; }
+.col { display: flex; flex-direction: column; }
+
+.bg-blue {  background-color: blue;}
+.bg-red {  background-color: red;}
+.bg-orange {  background-color:orange;}
+.bg-yellow {  background-color: yellow;}
+.bg-green {  background-color: green;}
+
+.cadre{ border: 10px solid black; }
+.sizeborder{ height: 200;width: 400 ;}
